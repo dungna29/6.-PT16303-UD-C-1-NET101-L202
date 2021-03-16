@@ -26,11 +26,6 @@ namespace BAI_1._1_LamQuenCsharp
             Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             //cw + tab = In ra màn hình
             Console.WriteLine("Chào các bạn đã đến với môn C#1");
-            
-
-
-
-
         }
     }
 }
