@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A1E294E2-3CCD-4F6B-A472-AB14135AE05D}</ProjectGuid>
+    <ProjectGuid>{82F9DC60-8887-44E5-B513-9961B4D7BAB3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Bai_1._2_BienLaGi</RootNamespace>
-    <AssemblyName>Bai_1.2_BienLaGi</AssemblyName>
+    <RootNamespace>Bai_1._4_EpKieu</RootNamespace>
+    <AssemblyName>Bai_1.4_EpKieu</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

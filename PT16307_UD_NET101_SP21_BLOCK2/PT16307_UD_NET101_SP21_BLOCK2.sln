@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_1.1_LamQuenCsharp", "BA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_1.2_BienLaGi", "Bai_1.2_BienLaGi\Bai_1.2_BienLaGi.csproj", "{A1E294E2-3CCD-4F6B-A472-AB14135AE05D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_1.3_NhapXuatTuBanPhim", "Bai_1.3_NhapXuatTuBanPhim\Bai_1.3_NhapXuatTuBanPhim.csproj", "{9E277C50-3383-4A63-9CE3-978C6BCFF4A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_1.4_EpKieu", "Bai_1.4_EpKieu\Bai_1.4_EpKieu.csproj", "{82F9DC60-8887-44E5-B513-9961B4D7BAB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A1E294E2-3CCD-4F6B-A472-AB14135AE05D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1E294E2-3CCD-4F6B-A472-AB14135AE05D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1E294E2-3CCD-4F6B-A472-AB14135AE05D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E277C50-3383-4A63-9CE3-978C6BCFF4A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E277C50-3383-4A63-9CE3-978C6BCFF4A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E277C50-3383-4A63-9CE3-978C6BCFF4A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E277C50-3383-4A63-9CE3-978C6BCFF4A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F9DC60-8887-44E5-B513-9961B4D7BAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F9DC60-8887-44E5-B513-9961B4D7BAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F9DC60-8887-44E5-B513-9961B4D7BAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F9DC60-8887-44E5-B513-9961B4D7BAB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
