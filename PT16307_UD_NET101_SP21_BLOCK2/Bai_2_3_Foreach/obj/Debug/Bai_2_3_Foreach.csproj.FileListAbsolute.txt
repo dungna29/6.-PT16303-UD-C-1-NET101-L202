@@ -1,0 +1,6 @@
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2_3_Foreach\bin\Debug\Bai_2_3_Foreach.exe.config
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2_3_Foreach\bin\Debug\Bai_2_3_Foreach.exe
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2_3_Foreach\bin\Debug\Bai_2_3_Foreach.pdb
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2_3_Foreach\obj\Debug\Bai_2_3_Foreach.csproj.CoreCompileInputs.cache
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2_3_Foreach\obj\Debug\Bai_2_3_Foreach.exe
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2_3_Foreach\obj\Debug\Bai_2_3_Foreach.pdb
