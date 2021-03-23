@@ -1,0 +1,6 @@
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2.5_ThuatToanNoiBot\bin\Debug\Bai_2.5_ThuatToanNoiBot.exe.config
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2.5_ThuatToanNoiBot\bin\Debug\Bai_2.5_ThuatToanNoiBot.exe
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2.5_ThuatToanNoiBot\bin\Debug\Bai_2.5_ThuatToanNoiBot.pdb
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2.5_ThuatToanNoiBot\obj\Debug\Bai_2.5_ThuatToanNoiBot.csproj.CoreCompileInputs.cache
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2.5_ThuatToanNoiBot\obj\Debug\Bai_2.5_ThuatToanNoiBot.exe
+D:\Google Driver Dungna29\8. Demo\Demo C#1\SP21_Block2\6.-PT16303-UD-C-1-NET101-L202\PT16307_UD_NET101_SP21_BLOCK2\Bai_2.5_ThuatToanNoiBot\obj\Debug\Bai_2.5_ThuatToanNoiBot.pdb
