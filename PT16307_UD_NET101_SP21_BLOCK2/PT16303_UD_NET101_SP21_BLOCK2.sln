@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_MAU_2_NHAP_XUAT_MANG", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DE_KIEM_TRA_LAB1_LAB2", "DE_KIEM_TRA_LAB1_LAB2\DE_KIEM_TRA_LAB1_LAB2.csproj", "{B48C0F66-9507-4BE2-9CFB-1D6AAC16AED4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.6_OOP_LapTrinhHuongDoiTuong", "Bai_2.6_OOP_LapTrinhHuongDoiTuong\Bai_2.6_OOP_LapTrinhHuongDoiTuong.csproj", "{39A10E77-3840-417B-9FDC-D3C1AEA5077B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{B48C0F66-9507-4BE2-9CFB-1D6AAC16AED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B48C0F66-9507-4BE2-9CFB-1D6AAC16AED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B48C0F66-9507-4BE2-9CFB-1D6AAC16AED4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A10E77-3840-417B-9FDC-D3C1AEA5077B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A10E77-3840-417B-9FDC-D3C1AEA5077B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A10E77-3840-417B-9FDC-D3C1AEA5077B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A10E77-3840-417B-9FDC-D3C1AEA5077B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
