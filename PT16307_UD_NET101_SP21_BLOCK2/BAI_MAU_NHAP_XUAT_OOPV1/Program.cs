@@ -12,7 +12,8 @@ namespace BAI_MAU_NHAP_XUAT_OOPV1
         {
             Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             ServiceSinhVien service = new ServiceSinhVien();
-            service.bai1Tao2DoiTuongSuDungContructor();
+            service.bai3TaoArrayDoiTuong();
+            service.inMangSinhVien();
         }
     }
 }
