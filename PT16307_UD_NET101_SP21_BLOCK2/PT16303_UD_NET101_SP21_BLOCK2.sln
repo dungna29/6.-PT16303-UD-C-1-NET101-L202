@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_MAU_NHAP_XUAT_OOPV1", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_2.9_Method_PhuongThuc", "Bai_2.9_Method_PhuongThuc\Bai_2.9_Method_PhuongThuc.csproj", "{9DAF392E-0922-458B-8633-0327CF39FC9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai_3.0_OOP_KeThua", "Bai_3.0_OOP_KeThua\Bai_3.0_OOP_KeThua.csproj", "{D08ED822-06F5-416C-96A3-0875C0D11519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAI_3.1_LINQ_CoBan", "BAI_3.1_LINQ_CoBan\BAI_3.1_LINQ_CoBan.csproj", "{ED6EE88A-E422-4F88-B861-5FEC3E98FDCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{9DAF392E-0922-458B-8633-0327CF39FC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DAF392E-0922-458B-8633-0327CF39FC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DAF392E-0922-458B-8633-0327CF39FC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08ED822-06F5-416C-96A3-0875C0D11519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08ED822-06F5-416C-96A3-0875C0D11519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08ED822-06F5-416C-96A3-0875C0D11519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08ED822-06F5-416C-96A3-0875C0D11519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6EE88A-E422-4F88-B861-5FEC3E98FDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6EE88A-E422-4F88-B861-5FEC3E98FDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6EE88A-E422-4F88-B861-5FEC3E98FDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6EE88A-E422-4F88-B861-5FEC3E98FDCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

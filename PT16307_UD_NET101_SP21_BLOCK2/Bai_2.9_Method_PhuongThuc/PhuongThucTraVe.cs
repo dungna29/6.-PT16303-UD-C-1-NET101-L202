@@ -32,7 +32,27 @@ namespace Bai_2._9_Method_PhuongThuc
             Console.WriteLine("Mời bạn nhập số thứ 2: ");
             b = Convert.ToInt16(Console.ReadLine());
             return a + b;//Trả về đúng kiểu dữ liệu của phương thức
-
         }
+
+        //Phương thức trả về kiểu mảng
+        public string[] getYears()
+        {
+            string[] arrYears = new string[200];
+            int temp = 1900;
+            for (int i = 0; i < arrYears.Length; i++)
+            {
+                arrYears[i] = Convert.ToString(temp);
+                temp++;
+            }
+            return arrYears;
+        }
+
+        public SinhVien getSV()
+        {
+            SinhVien sv1 = new SinhVien();
+            return sv1;
+        }
+
+        //Phương thức trả về có tham số tương tự như bên không trả về.
     }
 }

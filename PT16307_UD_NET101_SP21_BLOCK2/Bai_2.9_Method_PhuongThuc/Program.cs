@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Bai_2._9_Method_PhuongThuc
 {
     class Program
-    { 
+    {
         /*
        *  Bài 2.9 Phương thức - Method
        *  Định nghĩa: 1 tập các câu lệnh cùng nhau thực hiện 1 tác vụ nào đó.
@@ -45,7 +45,7 @@ namespace Bai_2._9_Method_PhuongThuc
              *      - Khi gọi ra kết thúc phải ();
              */
             //pt.tinhTong;//Lỗi
-            pt.tinhTong();
+            //pt.tinhTong();
 
 
             /*
@@ -55,12 +55,20 @@ namespace Bai_2._9_Method_PhuongThuc
              *      - Nếu là nạp chồng phương thức thì truyền số lượng tham số sẽ gọi đúng tham số cần gọi
              */
             //pt.tinhTong(5); Truyền thiếu tham số
-            pt.tinhTong(5,5);
+            //pt.tinhTong(5,5);
             #endregion
 
             PhuongThucTraVe ptTraVe = new PhuongThucTraVe();
             //ptTraVe.tinhTong(); Nó là 1 giá trị không thể tự in
-            Console.WriteLine(ptTraVe.tinhTong());
+            //Console.WriteLine(ptTraVe.tinhTong());
+
+
+            //Dùng phương thức trả về kiểu mảng
+            foreach (var x in ptTraVe.getYears())
+            {
+                Console.WriteLine(x);
+            }
+
         }
     }
 }
