@@ -80,5 +80,14 @@ namespace BAI_3._1_LINQ_CoBan
                 x.inRaManHinh();
             }
         }
+        public void timKiemGanDung()
+        {
+            Console.WriteLine("Mời bạn nhập mã sinh viên cần tìm: ");
+            string input = Console.ReadLine();
+            foreach (var x in lsSinhViens.Where(c=>c.Msv.StartsWith(input)))
+            {
+                x.inRaManHinh();
+            }
+        }
     }
 }
