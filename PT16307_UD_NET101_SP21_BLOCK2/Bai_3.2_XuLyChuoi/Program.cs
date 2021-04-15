@@ -10,6 +10,7 @@ namespace Bai_3._2_XuLyChuoi
     {
         static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
             // do
             // {
             //     Console.OutputEncoding = Encoding.GetEncoding("UTF-8");
@@ -35,17 +36,46 @@ namespace Bai_3._2_XuLyChuoi
             // } while (false);
 
             //2. Contains dùng để so sánh tương đối trong lập trình
-            string s1 = "Cao Dang Thuc Hanh FPT";
-            string s2 = "FPT";
-            bool b = s1.Contains(s2);//Chỉ cần tìm thấy FPT trong chuỗi 1 sẽ trả ra true
-            Console.WriteLine(b);
+            // string s1 = "Cao Dang Thuc Hanh FPT";
+            // string s2 = "FPT";
+            // bool b = s1.Contains(s2);//Chỉ cần tìm thấy FPT trong chuỗi 1 sẽ trả ra true
+            // Console.WriteLine(b);
+            //
+            // //3. 
+            // string[] arrName = {"Nguyen Van A", "Nguyen Van B", "Tran Thi Trang", "Hoang Thi Trang"};
+            // foreach (var x in arrName.Where(c=>c.StartsWith("Nguyen Van A")))
+            // {
+            //     Console.WriteLine(x);
+            // }
+            method1();
+        }
 
-            //3. 
-            string[] arrName = {"Nguyen Van A", "Nguyen Van B", "Tran Thi Trang", "Hoang Thi Trang"};
-            foreach (var x in arrName.Where(c=>c.StartsWith("Nguyen Van A")))
+
+        static void method1()
+        {
+            /*
+             * Mời người dùng nhập vào Tên - Năm Sinh - Giới Tính
+             *
+             * Xuất màn hình:
+             * Chào <Anh/Chị/Em/Bạn> <Tên>
+             *
+             * Chỉ 1 dòng code  + 1 điểm khi đi thi
+             */
+            while (true)
             {
-                Console.WriteLine(x);
+                string ten, gioitinh;
+                int nsBanThan = 2000,ns;
+                Console.WriteLine("Mời bạn nhập tên: ");
+                ten = Console.ReadLine();
+                Console.WriteLine("Mời bạn nhập giới tính: ");
+                gioitinh = Console.ReadLine(); 
+                Console.WriteLine("Mời bạn nhập năm sinh: ");
+                ns = Convert.ToInt16(Console.ReadLine());
+                Console.WriteLine("Chào {0} {1}", (nsBanThan > ns && gioitinh == "nam")?"Anh"
+                    : (nsBanThan > ns && gioitinh == "nu") ? "Chị"
+                    : (nsBanThan < ns) ? "Em":"Bạn",ten);
             }
+
         }
     }
 }

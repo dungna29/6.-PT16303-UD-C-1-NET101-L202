@@ -136,5 +136,14 @@ namespace BAI_MAU_CRUD_OOP_V2
             }
             return -1;
         }
+
+        void sort()
+        {
+            //_lstStudents.Sort((a, b) => a.DiemCsharp.CompareTo(b.DiemCsharp)); // ascending sort
+            //_lstStudents.Sort((a, b) => b.DiemCsharp.CompareTo(a.DiemCsharp)); // descending sort
+            var lstTemp = _lstStudents.OrderByDescending(c => c.DiemCsharp).ToList();
+            _lstStudents = new List<Student>();
+            _lstStudents = lstTemp;
+        }
     }
 }
